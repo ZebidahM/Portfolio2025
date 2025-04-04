@@ -30,4 +30,6 @@ This project is a live resume and creative space where I can:
 ## 📌 How to Use
 
 You can clone or download this project if you'd like to see how it's structured or use it as inspiration for your own personal site.
+Check it out here https://zebidahm.github.io/Portfolio2025/
+
 
